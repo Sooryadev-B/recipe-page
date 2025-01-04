@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+    background-color: white;
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top:10%;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+.img_container{
+    height: 190px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 26px;
+}
+
+.h1_0{
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: left;
+}
+.p_0{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+
+.time_box{
+    
+    width: 415px;
+    height: 166px;
+    background-color: rgb(233, 227, 239);
+    margin-left: 30px;
+    margin-top: 19px;
+    border-radius: 17px;
+}
+
+.time_box h3{
+    color: rgb(68, 31, 101);
+    margin-left:20px ;
+    padding-top: 16px;
+}
+
+li::marker{
+    color:brown ;
+}
+
+
+.time_box li {
+    color: rgb(68, 31, 101);
+    margin-left:59px ;
+    padding-top: 13px;
+}
+
+.ingredient{
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: left;
+    color: brown ;
+}
+
+.ingredient_list{
+    margin-left: 8px;
+
+    
+}
+
+.ingredients{
+    color: rgb(68, 31, 101);
+    margin-left:48px ;
+    padding-top: 10px;
+    
+}
+
+.line{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 400px;
+}
+
+.instruction{
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: left;
+    color: brown ;
+    
+}
+
+b{
+    color: black;
+}
+
+.steps{
+    color: rgb(68, 31, 101);
+    margin-left:48px ;
+    margin-right:38px;
+    padding-top: 15px;
+    color: rgb(105, 103, 103);
+}
+
+
+
+.item{
+    margin-top: 10px;
+    margin-left: 48px;
+
+}
+.item p{
+    display: inline-block;
+}
+
+.type{
+    
+}
+.value1 {
+    margin-left: 255px;
+
+}
+.value2{
+    margin-left: 272px;
+    
+}
+.value3 {
+    margin-left: 261px;
+    
+}
+.value4 {
+    margin-left: 286px;
+    
+}
+
+.line1{
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
